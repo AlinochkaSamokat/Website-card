@@ -1,0 +1,97 @@
+body{
+    background-image: url(background.jpg); 
+    background-size: 100%;
+}
+
+.container{
+    padding: 20px;
+}
+
+.row{
+    margin-top: 15px;
+}
+
+.logo{
+    width: 50%;
+    float: left;
+}
+
+.discription{
+    width: 50%;
+    float: left;
+}
+
+.divdes{
+    margin-left: 300px;
+    color: rgb(255, 255, 255);
+    font-family: Verdana;
+    font-size: 32pt;
+    font-weight: bold;
+}
+
+.nav{
+    margin-top: 15px;
+    width: 100%;
+    float: left;
+}
+
+ul.nav{
+    margin-left: 0px;
+    padding-left: 0px;
+    list-style: none;
+}
+
+.nav li{
+    float: left;
+}
+
+ul.nav a{
+    display: block;
+    width: 10em;
+    height: 2em;
+    padding: 10px;
+    margin: 0 5px;
+    background-color: white;
+    text-decoration: none;
+    color:  black;
+    text-align: center;
+}
+
+.main{
+    padding-left: 250px;
+}
+
+.maincoloumn{
+    padding-left: 20 px;
+    width: 50%;
+    float: left; 
+}
+
+.mainUL{
+    margin-top: 45 px;
+    font-family: Arial;
+    font-size: 12pt;
+    color: white;
+}
+
+.mainP1{
+    font-size: 20pt;
+    color: white;
+    font-family: Verdana;
+}
+
+.mainP2{
+    font-size: 20pt;
+    color: white;
+    font-family: Verdana;
+
+}
+
+.myself{
+    font-family: Verdana;
+    font-size: 15pt;
+    color: rgb(255, 255, 255);
+    float: right;
+    margin-right: 40%;
+    margin-top: 300px;
+}
